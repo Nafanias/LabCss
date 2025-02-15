@@ -1,1 +1,0 @@
-import"../chunks/Bg9kRutz.js";import"../chunks/69_IOA4Y.js";import{n as p}from"../chunks/MOftl_Qc.js";import{t as e,a}from"../chunks/DcT4jPJw.js";import"../chunks/BK6aIHE7.js";var r=e("<h1>sveltekit-gh-pages</h1> <p>Deployed to GitHub Pages.</p>",1);function f(t){var o=r();p(2),a(t,o)}export{f as component};
