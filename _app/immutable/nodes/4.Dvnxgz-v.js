@@ -14,7 +14,7 @@ try {
 };
 
 const jsonS = JSON.stringify(user);
-console.log(jsonS);`,o(t,e)},$$slots:{default:!0}});var j=s(_,4);l(j,{type:"inline",code:'{"name":"Ravi","age":25,"profession":"Web Developer"}'});var c=s(j,6),O=s(f(c));n(O,{visited:!0,href:"https://www.geeksforgeeks.org/javascript-check-if-a-string-is-a-valid-json-string/",children:(t,i)=>{r();var e=a("JSON строку");o(t,e)},$$slots:{default:!0}});var L=s(O,2);n(L,{visited:!0,href:"https://www.geeksforgeeks.org/objects-in-javascript/",children:(t,i)=>{r();var e=a("JavaScript объект");o(t,e)},$$slots:{default:!0}}),r(),g(c);var N=s(c,2);l(N,{type:"multi",children:(t,i)=>{r();var e=a();e.nodeValue=`const json = '{"name": "Ravi", "age": 25}';
+console.log(jsonS);`,o(t,e)},$$slots:{default:!0}});var j=s(_,4);l(j,{code:'{"name":"Ravi","age":25,"profession":"Web Developer"}'});var c=s(j,6),O=s(f(c));n(O,{visited:!0,href:"https://www.geeksforgeeks.org/javascript-check-if-a-string-is-a-valid-json-string/",children:(t,i)=>{r();var e=a("JSON строку");o(t,e)},$$slots:{default:!0}});var L=s(O,2);n(L,{visited:!0,href:"https://www.geeksforgeeks.org/objects-in-javascript/",children:(t,i)=>{r();var e=a("JavaScript объект");o(t,e)},$$slots:{default:!0}}),r(),g(c);var N=s(c,2);l(N,{type:"multi",children:(t,i)=>{r();var e=a();e.nodeValue=`const json = '{"name": "Ravi", "age": 25}';
 const obj = JSON.parse(json);
 
 obj.profession = "Web Developer";
